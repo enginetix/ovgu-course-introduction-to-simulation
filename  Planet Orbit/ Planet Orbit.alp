@@ -570,7 +570,7 @@
 					<PublicFlag>false</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
 					<ShowLabel>true</ShowLabel>
-					<Body><![CDATA[return Sun_m * Earth_m * Gammas / (distance() * distance());]]></Body>
+					<Body><![CDATA[return Sun_m * Earth_m * Gamma / (distance() * distance());]]></Body>
 				</Function>
 				<Function AccessType="default" StaticFunction="false">
 					<ReturnModificator>RETURNS_VALUE</ReturnModificator>
