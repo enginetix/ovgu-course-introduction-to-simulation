@@ -189,7 +189,7 @@
 					<Width>20</Width>
 					<Height>20</Height>
 						<Expression><![CDATA[Earth_u]]></Expression>
-						<InitialValue><![CDATA[0]]></InitialValue>
+						<InitialValue><![CDATA[1]]></InitialValue>
 						<Color/>
 					</Properties>
 				</Variable>
@@ -630,14 +630,14 @@
 					</RecurrenceCode>
 					<EmbeddedIcon>false</EmbeddedIcon>
 					<Width>500</Width>
-					<Height>240</Height>
+					<Height>460</Height>
 					<BackgroundColor/>
 					<BorderColor/>
 					<ChartArea>
 						<XOffset>50</XOffset>
 						<YOffset>30</YOffset>
 						<Width>420</Width>
-						<Height>150</Height>
+						<Height>370</Height>
 						<BackgroundColor>-1</BackgroundColor>
 						<BorderColor>-16777216</BorderColor>
 						<GridColor>-12566464</GridColor>
@@ -686,7 +686,7 @@
     			<TimePlot>
 					<Id>1544181079726</Id>
 					<Name><![CDATA[Sun]]></Name>
-					<X>30</X><Y>800</Y>
+					<X>70</X><Y>1030</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -703,15 +703,15 @@
 						<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
 					</RecurrenceCode>
 					<EmbeddedIcon>false</EmbeddedIcon>
-					<Width>260</Width>
-					<Height>210</Height>
+					<Width>510</Width>
+					<Height>450</Height>
 					<BackgroundColor/>
 					<BorderColor/>
 					<ChartArea>
 						<XOffset>50</XOffset>
 						<YOffset>30</YOffset>
-						<Width>180</Width>
-						<Height>120</Height>
+						<Width>430</Width>
+						<Height>360</Height>
 						<BackgroundColor>-1</BackgroundColor>
 						<BorderColor>-16777216</BorderColor>
 						<GridColor>-12566464</GridColor>
@@ -760,7 +760,7 @@
     			<TimePlot>
 					<Id>1544181082969</Id>
 					<Name><![CDATA[Earth]]></Name>
-					<X>350</X><Y>800</Y>
+					<X>60</X><Y>1490</Y>
 					<Label><X>0</X><Y>-10</Y></Label>
 					<PublicFlag>true</PublicFlag>
 					<PresentationFlag>true</PresentationFlag>
@@ -777,15 +777,15 @@
 						<Unit Class="TimeUnits"><![CDATA[SECOND]]></Unit>
 					</RecurrenceCode>
 					<EmbeddedIcon>false</EmbeddedIcon>
-					<Width>260</Width>
-					<Height>210</Height>
+					<Width>520</Width>
+					<Height>480</Height>
 					<BackgroundColor/>
 					<BorderColor/>
 					<ChartArea>
 						<XOffset>50</XOffset>
 						<YOffset>30</YOffset>
-						<Width>180</Width>
-						<Height>120</Height>
+						<Width>440</Width>
+						<Height>390</Height>
 						<BackgroundColor>-1</BackgroundColor>
 						<BorderColor>-16777216</BorderColor>
 						<GridColor>-12566464</GridColor>
