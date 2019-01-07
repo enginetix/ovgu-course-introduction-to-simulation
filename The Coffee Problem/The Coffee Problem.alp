@@ -186,6 +186,9 @@
 						<Type><![CDATA[double]]></Type>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
+						<DefaultValue Class="CodeValue">
+							<Code><![CDATA[90]]></Code>
+						</DefaultValue>
 						<ParameterEditor>
 							<Id>1544228660143</Id>
 							<EditorContolType>TEXT_BOX</EditorContolType>
@@ -207,6 +210,9 @@
 						<Type><![CDATA[double]]></Type>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
+						<DefaultValue Class="CodeValue">
+							<Code><![CDATA[0.2]]></Code>
+						</DefaultValue>
 						<ParameterEditor>
 							<Id>1544228675353</Id>
 							<EditorContolType>TEXT_BOX</EditorContolType>
@@ -228,6 +234,9 @@
 						<Type><![CDATA[double]]></Type>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
+						<DefaultValue Class="CodeValue">
+							<Code><![CDATA[8]]></Code>
+						</DefaultValue>
 						<ParameterEditor>
 							<Id>1544228688747</Id>
 							<EditorContolType>TEXT_BOX</EditorContolType>
@@ -249,6 +258,9 @@
 						<Type><![CDATA[double]]></Type>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
+						<DefaultValue Class="CodeValue">
+							<Code><![CDATA[0.05]]></Code>
+						</DefaultValue>
 						<ParameterEditor>
 							<Id>1544228699514</Id>
 							<EditorContolType>TEXT_BOX</EditorContolType>
@@ -282,6 +294,7 @@
 				<Variable Class="Parameter">
 					<Id>1544228723399</Id>
 					<Name><![CDATA[MilkPourTime]]></Name>
+					<Description><![CDATA[0.3 minutes]]></Description>
 					<X>470</X><Y>140</Y>
 					<Label><X>10</X><Y>0</Y></Label>
 					<PublicFlag>false</PublicFlag>
@@ -291,6 +304,9 @@
 						<Type><![CDATA[double]]></Type>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
+						<DefaultValue Class="CodeValue">
+							<Code><![CDATA[0.3]]></Code>
+						</DefaultValue>
 						<ParameterEditor>
 							<Id>1544228723397</Id>
 							<EditorContolType>TEXT_BOX</EditorContolType>
@@ -312,6 +328,9 @@
 						<Type><![CDATA[double]]></Type>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
+						<DefaultValue Class="CodeValue">
+							<Code><![CDATA[0.5]]></Code>
+						</DefaultValue>
 						<ParameterEditor>
 							<Id>1544228762473</Id>
 							<EditorContolType>TEXT_BOX</EditorContolType>
@@ -333,6 +352,9 @@
 						<Type><![CDATA[double]]></Type>
 						<UnitType><![CDATA[NONE]]></UnitType>
 						<SdArray>false</SdArray>
+						<DefaultValue Class="CodeValue">
+							<Code><![CDATA[22]]></Code>
+						</DefaultValue>
 						<ParameterEditor>
 							<Id>1544228779738</Id>
 							<EditorContolType>TEXT_BOX</EditorContolType>
